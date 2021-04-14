@@ -1,4 +1,4 @@
-App kết nối UART 
+App kết nối UART Nguyễn Văn Thọ, Winform C#
 
 ID : Vantho15
 
